@@ -5,7 +5,7 @@
 🌱 I’m learning and exploring **AI/ML** to integrate intelligent features in web apps.  
 💬 Ask me about **Web Development**, **APIs**, **Databases**, or anything tech!  
 📫 Reach me at: [riyak052005@gmail.com]  
-📄 [Resume](#) • [LinkedIn](#) • [Portfolio Website](#)
+📄 [Resume](https://drive.google.com/drive/folders/1dLmUDHW_TChHbl4sO-Un3EDX7M-R6pVQ) • [LinkedIn](https://www.linkedin.com/in/riya-kumari-2412a6288/) • [Portfolio Website](https://riyak05.github.io/riya-portfolio/)
 
 ---
 

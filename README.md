@@ -27,7 +27,7 @@
 - 🤖 Exploring **AI/ML** to integrate intelligent features in web apps.
 - 💬 Ask me about **Web Development**, **APIs**, **Databases**, or anything tech!
 - 📫 Reach me at: [riyak052005@gmail.com](mailto:riyak052005@gmail.com)
-- 🌐 [Portfolio Website](https://riyak05.github.io/riya-portfolio/) | [Resume](https://drive.google.com/drive/folders/1dLmUDHW_TChHbl4sO-Un3EDX7M-R6pVQ) | [LinkedIn](https://www.linkedin.com/in/riya-kumari-2412a6288/)
+- 🌐 [Portfolio Website](https://riyak05.github.io/riya-portfolio/) | [Resume](https://drive.google.com/file/d/1KoEaFlGpjVCn6fM9qJ9qzOTXIfW3QJq3/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/riya-kumari-2412a6288/)
 
 ---
 
